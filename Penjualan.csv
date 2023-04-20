@@ -1,4 +1,4 @@
-No.Penjualan,Tanggal,Nama Customer,Gudang,Kode Item,Nama Item,Qty,Satuan,Harga,Cabang
+NoPenjualan,Tanggal,Nama_Customer,Gudang,Kode_Item,Nama_Item,Qty,Satuan,Harga,Cabang
 JL000040192,44925,CASH,Gudang Sidoarjo,4011.0,Wacker GPN Sea GHS Clear,2,PCS,29500,Sidoarjo
 JL000040191,44925,CASH,Gudang Sidoarjo,TRT,TEROT,8,PCS,12000,Sidoarjo
 JL000040190,44925,BINTARA ALUMUNIUM,Gudang Jati Bening,GLZMPWH,GLAZING MP WHITE,48,PCS,27000,Jatibening
